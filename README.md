@@ -12,15 +12,8 @@ It is solely here for educational purposes
 
 ### Install dependencies
 
-
-#### In development
 ```
 npm install
-```
-
-#### In production
-```
-npm install --production
 ```
 
 ### Launch server
